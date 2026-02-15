@@ -1,16 +1,10 @@
 # buri_split
 
-A new Flutter project.
+Flutter-based app powered by Gemini 1.5 Flash to scan, itemize, and split Japanese receipts among friends
 
-## Getting Started
+## Demonstration
 
-This project is a starting point for a Flutter application.
+<img height="700" alt="splitterpic" src="https://github.com/user-attachments/assets/c233a1ce-79d5-4049-a70e-8f84a5dce185" />
+<img src="https://github.com/user-attachments/assets/0a55f551-35fb-4ce8-918e-60202d1b74ab" height="700">
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
